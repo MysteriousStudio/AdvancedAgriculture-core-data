@@ -9,8 +9,8 @@
     "I": {
       "item": "minecraft:iron_ingot"
     },
-    "B": {
-      "item": "minecraft:sticks"
+    "S": {
+      "item": "minecraft:stick"
     }
   },
   "result": {
