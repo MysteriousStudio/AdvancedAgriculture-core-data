@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II ",
+    "IS ",
+    " S "
+  ],
+  "key": {
+    "I": {
+      "item": "adv_agri_core:aluminium_ingot"
+    },
+    "S": {
+      "item": "minecraft:sticks"
+    }
+  },
+  "result": {
+    "item": "adv_agri_core:aluminium_axe"
+  }
+}
