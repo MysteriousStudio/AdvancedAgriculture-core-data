@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "I": {
+      "item": "adv_agri_core:aluminium_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "adv_agri_core:aluminium_shovel",
+    "count": 1
+  }
+}
