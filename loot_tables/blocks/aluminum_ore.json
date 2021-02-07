@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "adv_agri_core:aluminium_ore"
+          "name": "adv_agri_core:aluminum_ore"
         }
       ],
       "conditions": [

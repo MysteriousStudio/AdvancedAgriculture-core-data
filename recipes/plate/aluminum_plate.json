@@ -5,11 +5,11 @@
       "item": "adv_agri_core:forging_hammer"
     },
     {
-      "item": "adv_agri_core:aluminium_ingot"
+      "item": "adv_agri_core:aluminum_ingot"
     }
   ],
   "result": {
-    "item": "adv_agri_core:aluminium_plate",
+    "item": "adv_agri_core:aluminum_plate",
     "count": 2
   }
 }

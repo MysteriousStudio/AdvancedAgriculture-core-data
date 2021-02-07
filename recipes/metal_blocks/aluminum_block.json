@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "adv_agri_core:copper_ingot"
+      "item": "adv_agri_core:aluminum_ingot"
     }
   },
   "result": {
-    "item": "adv_agri_core:copper_block"
+    "item": "adv_agri_core:aluminum_block"
   }
 }
