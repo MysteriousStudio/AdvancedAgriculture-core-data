@@ -1,7 +1,8 @@
+
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "tag": "c:zinc_ores"
+    "item": "adv_agri_core:zinc_ore"
   },
   "result": "adv_agri_core:zinc_ingot",
   "experience": 0.5,

@@ -1,9 +1,10 @@
+
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "tag": "c:nickel_ores"
+    "item": "adv_agri_core:lead_ore"
   },
-  "result": "adv_agri_core:nickel_ingot",
+  "result": "adv_agri_core:lead_ingot",
   "experience": 0.5,
   "cookingtime": 200
 }
