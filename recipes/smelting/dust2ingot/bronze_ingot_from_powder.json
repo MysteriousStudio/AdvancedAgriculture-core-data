@@ -1,9 +1,9 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:bronze_ore"
+    "item": "adv_agri_core:bronze_powder"
   },
   "result": "adv_agri_core:bronze_ingot",
-  "experience": 0.5,
-  "cookingtime": 200
+  "experience": 0,
+  "cookingtime": 150
 }
