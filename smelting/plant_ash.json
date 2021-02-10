@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "minecraft:grass"
   },
-  "result": "adv_agri_core:plant_ahs",
+  "result": "adv_agri_core:plant_ash",
   "experience": 0.1,
   "cookingtime": 200
 }
