@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "c:titanium_ores"
+  },
+  "result": "adv_agri_core:titanium_ingot",
+  "experience": 0.5,
+  "cookingtime": 200
+}

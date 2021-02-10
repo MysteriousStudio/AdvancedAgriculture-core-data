@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "c:aluminum_ores"
+  },
+  "result": "adv_agri_core:aluminum_ingot",
+  "experience": 0.5,
+  "cookingtime": 200
+}

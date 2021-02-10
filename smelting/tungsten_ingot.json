@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "c:tungsten_ores"
+  },
+  "result": "adv_agri_core:tungsten_ingot",
+  "experience": 0.5,
+  "cookingtime": 200
+}
