@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:tin_powder"
+    "tag": "c:tin_dusts"
   },
   "result": "adv_agri_core:tin_ingot",
   "experience": 0,

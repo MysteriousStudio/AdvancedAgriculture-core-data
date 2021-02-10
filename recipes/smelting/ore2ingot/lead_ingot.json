@@ -1,9 +1,10 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:lead_ore"
+    "tag": "c:lead_ores"
   },
   "result": "adv_agri_core:lead_ingot",
   "experience": 0.5,
   "cookingtime": 200
 }
+

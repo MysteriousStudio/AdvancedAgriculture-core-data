@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:nickel_powder"
+    "tag": "c:nickel_dusts"
   },
   "result": "adv_agri_core:nickel_ingot",
   "experience": 0,

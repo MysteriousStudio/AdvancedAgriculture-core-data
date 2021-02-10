@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:lead_powder"
+    "tag": "c:lead_dusts"
   },
   "result": "adv_agri_core:lead_ingot",
   "experience": 0,

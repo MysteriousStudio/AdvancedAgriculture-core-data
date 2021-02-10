@@ -1,9 +1,10 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:silver_ore"
+    "tag": "c:silver_ores"
   },
   "result": "adv_agri_core:silver_ingot",
   "experience": 0.5,
   "cookingtime": 200
 }
+

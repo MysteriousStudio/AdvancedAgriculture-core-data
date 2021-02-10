@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:aluminum_powder"
+    "tag": "c:aluminum_dusts"
   },
   "result": "adv_agri_core:aluminum_ingot",
   "experience": 0,

@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:bronze_powder"
+    "tag": "c:bronze_dusts"
   },
   "result": "adv_agri_core:bronze_ingot",
   "experience": 0,

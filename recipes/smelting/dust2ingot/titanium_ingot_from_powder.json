@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:titanium_powder"
+    "tag": "c:titanium_dusts"
   },
   "result": "adv_agri_core:titanium_ingot",
   "experience": 0,

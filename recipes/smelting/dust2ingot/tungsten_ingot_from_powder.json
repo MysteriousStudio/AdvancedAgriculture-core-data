@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "adv_agri_core:tungsten_powder"
+    "tag": "c:tungsten_dusts"
   },
   "result": "adv_agri_core:tungsten_ingot",
   "experience": 0,
