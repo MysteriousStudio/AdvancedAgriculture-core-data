@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:clay"
+      },
+      {
+        "item": "adv_agri_core:solarium_bottle_small"
+      },
+      {
+        "item": "adv_agri_core:aluminum_powder"
+      }
+    ],
+    "result": {
+      "item": "adv_agri_core:aluminum_dissolver",
+      "count": 9
+    }
+  }
