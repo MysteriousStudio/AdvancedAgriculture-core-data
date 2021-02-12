@@ -24,7 +24,7 @@
                   }
                 }
               ],
-              "name": "adv_agri_core:weathered_aluminum_ore"
+              "name": "adv_agri_core:weathered_steel_ore"
             },
             {
               "type": "minecraft:item",
@@ -46,7 +46,7 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "adv_agri_core:aluminum_shard"
+              "name": "adv_agri_core:steel_shard"
             }
           ]
         }
