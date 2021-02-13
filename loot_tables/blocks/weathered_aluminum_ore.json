@@ -46,7 +46,7 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "adv_agri_core:aluminum_shard"
+              "name": "adv_agri_core:crushed_aluminum_ore"
             }
           ]
         }
